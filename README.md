@@ -22,6 +22,7 @@ A passionate Android Developer with experience in Kotlin and Jetpack Compose, cu
 📧 Email: vinsensiusfendy@gmail.com
 
 ### 🎯 Fun Facts  
+- Learn till die.
 - I love learning new tech and sharing knowledge with the community.
 - Favorite quote: *"The only way to do great work is to love what you do." - Steve Jobs*
 
