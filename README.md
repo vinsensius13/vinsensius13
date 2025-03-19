@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Vinsensius Fendy Kurniawan  
 🚀 Passionate Developer | AI & Machine Learning Enthusiast | Android Developer  
 
-![Banner](https://github.com/vinsensius13/vinsensius13/blob/e3df153aab1332940c125066d1e053c23b202f24/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)  
+![Banner](https://github.com/vinsensius13/vinsensius13/blob/405b0e6ac729e234ec6524e475348b8dbdd5fafd/vinsen-banner.png)  
 
 ### 💡 About Me  
 A passionate Android Developer with experience in Kotlin and Jetpack Compose, currently pursuing a degree in Information Systems at Institut Teknologi Batam. I focus on building user-friendly and efficient mobile applications, with a growing interest in integrating machine learning to enhance app functionality. My passion for AI has driven me to actively learn AI and Machine Learning, aiming to develop smarter and more innovative mobile applications.I am a developer with a strong passion for AI, Machine Learning, and Android development. Currently, I am exploring various technologies to enhance my skills and contribute to open-source projects. I have experience working on mobile applications, AI models, and data-driven solutions.
