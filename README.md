@@ -9,8 +9,8 @@ A passionate Android Developer with experience in Kotlin and Jetpack Compose, cu
 ### 🛠️ Tech Stack  
 - **Languages:** Python, Kotlin, Java, JavaScript  
 - **Frameworks & Tools:** TensorFlow, PyTorch, Jetpack Compose, Android Studio  
-- **Databases:** Firebase, PostgreSQL, SQLite  
-- **Other:** Git, Docker, Linux, CI/CD  
+- **Databases:** Firebase, PostgreSQL, SQLite, MySql  
+- **Other:** Git
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinsensius13&show_icons=true&theme=radical)  
