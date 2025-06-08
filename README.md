@@ -26,10 +26,10 @@ Currently exploring various technologies to contribute to **open-source projects
 
 ### 🛠️ Tech Stack
 
-- **Languages:** `Python`, `Kotlin`, `Dart`, `Java`, `JavaScript`  
-- **Frameworks & Tools:** `TensorFlow`, `PyTorch`, `Jetpack Compose`, `Flutter`, `Android Studio`  
+- **Languages:** `Python`, `Kotlin`, `Dart`, `Java` 
+- **Frameworks & Tools:** `TensorFlow`, `PyTorch`, `Jetpack Compose`, `Flutter`, `Android Studio`, `VS Code`
 - **Databases:** `Firebase`, `PostgreSQL`, `SQLite`, `MySQL`  
-- **Other:** `Git`, `VS Code`, `Figma`
+- **Other:** `Git`, `Figma`
 
 ---
 
